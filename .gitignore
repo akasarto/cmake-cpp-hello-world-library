@@ -1,0 +1,8 @@
+[Aa]rtifacts/*
+![Aa]rtifacts/readme.md
+[Bb]uild/*
+![Bb]uild/readme.md
+_deps
+.deps
+.vs
+.vscode
