@@ -26,6 +26,11 @@ add_library(${PRIMARY_OUTPUT_NAME} STATIC
     ${PRIMARY_SOURCE_FILES}
 )
 
+set_target_properties(${PRIMARY_OUTPUT_NAME} PROPERTIES 
+    PREFIX ""
+    OUTPUT_NAME "${PRIMARY_OUTPUT_NAME}"
+)
+
 target_include_directories(${PRIMARY_OUTPUT_NAME} PUBLIC
     "./inc"
 )
