@@ -2,7 +2,7 @@
 
 cmake_minimum_required(VERSION 3.23)
 
-set(PRIMARY_OUTPUT_NAME "cmakeProjectLayout")
+set(PRIMARY_OUTPUT_NAME "cppHelloWorld")
 
 set(CMAKE_CXX_STANDARD              17) # https://cmake.org/cmake/help/latest/variable/CMAKE_CXX_STANDARD.html
 set(CMAKE_CXX_STANDARD_REQUIRED     ON) # https://cmake.org/cmake/help/latest/variable/CMAKE_CXX_STANDARD_REQUIRED.html
