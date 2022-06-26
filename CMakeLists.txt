@@ -34,7 +34,3 @@ set_target_properties(${PRIMARY_OUTPUT_NAME} PROPERTIES
 target_include_directories(${PRIMARY_OUTPUT_NAME} PUBLIC
     "./inc"
 )
-
-target_link_libraries(${PRIMARY_OUTPUT_NAME} PRIVATE
-    ${GREETER_MESSAGES_OUTPUT_NAME}
-)
