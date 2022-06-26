@@ -1,3 +1,0 @@
-CI scripts, bootstrappers, etc...
-
-These can be invoked from other specialized scripts that may exist in the root directory.

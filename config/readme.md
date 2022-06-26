@@ -1,1 +1,0 @@
-Global configuration files, classes, etc.

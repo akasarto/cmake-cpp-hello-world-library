@@ -1,3 +1,0 @@
-Images, videos, audio, fonts, etc...
-
-Anything that cannot be in the .docs folder.
