@@ -4,6 +4,6 @@ namespace helloworld
 {
     std::string_view sayHello()
     {
-        return "Hello World!";
+        return "Hello World v1.0.0!";
     }
 }
